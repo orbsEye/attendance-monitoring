@@ -1,1 +1,1 @@
-DATABASE_URL="postgresql://attendancedb_owner:************@ep-bold-sun-a75hqog7-pooler.ap-southeast-2.aws.neon.tech/attendancedb?sslmode=require"
+DATABASE_URL = "postgresql://attendancedb_owner:************@ep-bold-sun-a75hqog7-pooler.ap-southeast-2.aws.neon.tech/attendancedb?sslmode=require"
